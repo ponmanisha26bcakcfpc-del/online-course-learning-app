@@ -14,24 +14,25 @@ This is an Online Course Learning App UI Design created using Figma. The applica
 
 🎯 Objective
 
-The main objective is to design a simple and user-friendly interface that allows students to find courses and learn anytime, anywhere.
-
-📱 Screens
-
-Splash Screen 
-
-<img width="312" height="662" alt="Screenshot 2026-10-29 155139" src="https://github.com/user-attachments/assets/265221fb-f492-45f4-aed6-f5899fb3c460" />
+The main objective is to design a simple and user-friendly interface that allows students to find courses and learn anytime, anywhe
 
 
 Home
 
-<img width="306" height="636" alt="Screenshot 2026-10-29 155144" src="https://github.com/user-attachments/assets/430dcf17-1001-4637-8898-a6422164e5ee" />
+<img width="287" height="635" alt="Screenshot 2026-10-29 161431" src="https://github.com/user-attachments/assets/e13e75ac-f1a8-490c-8290-3d1cbef0d01d" />
+
+
+  Splash Screen
+
+  <img width="315" height="640" alt="Screenshot 2026-10-29 161437" src="https://github.com/user-attachments/assets/e66d404b-9369-4b38-b9e4-2f1f87c255f9" />
+
+
 
 
 Class
 
+<img width="307" height="657" alt="Screenshot 2026-10-29 161442" src="https://github.com/user-attachments/assets/4ad6f93a-b215-4c59-b275-52cb449cd8a4" />
 
-<img width="352" height="650" alt="Screenshot 2026-10-29 155150" src="https://github.com/user-attachments/assets/ab6c41c5-cf04-446c-a473-3fa149149c40" />
 
 ⭐ Key Features
 
